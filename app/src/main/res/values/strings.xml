@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">Hello World 2b</string>
+    <string name="app_name">Hello World 2c</string>
     <string name="main_button_toast">Toast</string>
     <string name="main_button_count">Count</string>
     <string name="main_text_showCount">0</string>
-    <string name="main_toast_message">Hello Toast 2b!</string>
+    <string name="main_toast_message">Hello Toast 2c!</string>
+    <string name="main_button_zero">Zero</string>
 </resources>
